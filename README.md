@@ -1,10 +1,10 @@
-# y
+# About Project
 
-> y
+> This is a platform to Create blogs and view them. Blogs can be edited and deleted anytime. A particular word in a blog can be highlighted while viewing it, and that highlighted word will be saved in the directory. Once clicked on the selected word in the directory, all the blogs containing that word will appear.
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
